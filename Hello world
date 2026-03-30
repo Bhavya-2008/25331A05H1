@@ -1,0 +1,9 @@
+# 25331A05H1
+                        #include<stdio.h>
+                          int main()
+                          {
+                          printf(“Enter the Hello World”);
+                          return 0;
+                             }
+
+                             
